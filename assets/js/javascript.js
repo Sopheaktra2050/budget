@@ -1,11 +1,13 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyDGePr4Qm4cicTkOyCAnysO1d6TCSCiIhw",
-  authDomain: "income-3e585.firebaseapp.com",
-  databaseURL: "https://income-3e585.firebaseio.com",
-  projectId: "income-3e585",
-  storageBucket: "income-3e585.appspot.com",
-  messagingSenderId: "1009016464962"
+ apiKey: "AIzaSyAks-4ngqln3qScMk5UMQ3GceS7K-bdvCM",
+    authDomain: "cambodia-b15a3.firebaseapp.com",
+    databaseURL: "https://cambodia-b15a3.firebaseio.com",
+    projectId: "cambodia-b15a3",
+    storageBucket: "cambodia-b15a3.appspot.com",
+    messagingSenderId: "915683436988",
+    appId: "1:915683436988:web:7df875585b84cc774c23b9",
+    measurementId: "G-LLW72B80QL"
 };
 firebase.initializeApp(config);
 
