@@ -136,7 +136,8 @@ function handleCreate(){
   else {
     alert('test');
   }
-  window.location.replace("https://sopheaktra2050.github.io/budget/salary.html");
+
+ window.location.replace("https://sopheaktra2050.github.io/budget/salary.html");
  
 }
 
