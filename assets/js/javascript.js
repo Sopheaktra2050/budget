@@ -134,7 +134,8 @@ function handleCreate(){
   else {
     alert('test');
   }
-  window.location.replace("https://tickstudiu.github.io/income-firebase-github-page/salary.html");
+  window.location.replace(" https://sopheaktra2050.github.io/budget/salary");
+ 
 }
 
 function handleDelFood(year , mouth , day, key, price, type) {
