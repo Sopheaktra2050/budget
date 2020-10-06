@@ -136,7 +136,7 @@ function handleCreate(){
   else {
     alert('test');
   }
-  window.location.replace("https://sopheaktra2050.github.io/Cambodia-firebase/budget/salary");
+  window.location.replace("https://sopheaktra2050.github.io/budget/salary.html");
  
 }
 
